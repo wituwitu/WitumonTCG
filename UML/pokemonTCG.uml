@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>pokemonTCG</OriginalElement>
+  <nodes>
+    <node x="373.0" y="162.0">pokemonTCG.energies</node>
+    <node x="316.0" y="395.0">pokemonTCG.Driver</node>
+    <node x="89.0" y="238.0">pokemonTCG.Visitor</node>
+    <node x="142.0" y="319.0">pokemonTCG.AbilityVisitor</node>
+    <node x="325.0" y="238.0">pokemonTCG.abilities</node>
+    <node x="177.00000000000003" y="162.0">pokemonTCG.trainercards</node>
+    <node x="223.00000000000003" y="0.0">pokemonTCG.ICard</node>
+    <node x="174.0" y="395.0">pokemonTCG.Trainer</node>
+    <node x="0.0" y="162.0">pokemonTCG.pokemon</node>
+    <node x="0.0" y="319.0">pokemonTCG.PlayVisitor</node>
+    <node x="0.0" y="395.0">pokemonTCG.types</node>
+    <node x="195.50000000000003" y="81.0">pokemonTCG.AbstractCard</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="pokemonTCG.pokemon" target="pokemonTCG.AbstractCard">
+      <point x="39.25" y="-15.5" />
+      <point x="117.75" y="137.0" />
+      <point x="218.66666666666669" y="137.0" />
+      <point x="-46.33333333333334" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.AbstractCard" target="pokemonTCG.ICard">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.energies" target="pokemonTCG.ICard">
+      <point x="37.75" y="-15.5" />
+      <point x="486.25" y="56.0" />
+      <point x="293.0" y="56.0" />
+      <point x="28.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon" target="pokemonTCG.ICard">
+      <point x="-39.25" y="-15.5" />
+      <point x="39.25000000000003" y="56.0" />
+      <point x="237.00000000000003" y="56.0" />
+      <point x="-28.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.energies" target="pokemonTCG.AbstractCard">
+      <point x="-37.75" y="-15.5" />
+      <point x="410.75" y="137.0" />
+      <point x="311.33333333333337" y="137.0" />
+      <point x="46.33333333333337" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.trainercards" target="pokemonTCG.AbstractCard">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.AbilityVisitor" target="pokemonTCG.Visitor">
+      <point x="0.0" y="-15.5" />
+      <point x="211.0" y="294.0" />
+      <point x="159.5" y="294.0" />
+      <point x="23.5" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.PlayVisitor" target="pokemonTCG.Visitor">
+      <point x="0.0" y="-15.5" />
+      <point x="61.0" y="294.0" />
+      <point x="112.5" y="294.0" />
+      <point x="-23.5" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="262.0" y="213.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

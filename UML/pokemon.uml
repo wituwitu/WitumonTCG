@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>pokemonTCG.pokemon</OriginalElement>
+  <nodes>
+    <node x="1781.166666666667" y="533.0">pokemonTCG.pokemon.basic.BasicWaterPokemon</node>
+    <node x="879.1666666666669" y="111.0">pokemonTCG.pokemon.IThunderPokemon</node>
+    <node x="609.166666666667" y="533.0">pokemonTCG.pokemon.phase2.P2WaterPokemon</node>
+    <node x="2395.166666666667" y="533.0">pokemonTCG.pokemon.phase2.P2GrassPokemon</node>
+    <node x="801.1666666666669" y="533.0">pokemonTCG.pokemon.phase1.P1FirePokemon</node>
+    <node x="1373.166666666667" y="533.0">pokemonTCG.pokemon.phase2.P2FightingPokemon</node>
+    <node x="2167.666666666667" y="111.0">pokemonTCG.pokemon.IFirePokemon</node>
+    <node x="3229.166666666667" y="533.0">pokemonTCG.pokemon.basic.BasicGrassPokemon</node>
+    <node x="2583.166666666667" y="533.0">pokemonTCG.pokemon.basic.BasicFightingPokemon</node>
+    <node x="909.1666666666669" y="212.0">pokemonTCG.pokemon.AbstractThunderPokemon</node>
+    <node x="1705.666666666667" y="212.0">pokemonTCG.pokemon.phase2.IP2Pokemon</node>
+    <node x="2168.166666666667" y="533.0">pokemonTCG.pokemon.basic.BasicThunderPokemon</node>
+    <node x="1581.166666666667" y="533.0">pokemonTCG.pokemon.phase1.P1PsychicPokemon</node>
+    <node x="519.166666666667" y="111.0">pokemonTCG.pokemon.IWaterPokemon</node>
+    <node x="2496.166666666667" y="111.0">pokemonTCG.pokemon.IGrassPokemon</node>
+    <node x="400.0" y="533.0">pokemonTCG.pokemon.phase1.P1FightingPokemon</node>
+    <node x="545.166666666667" y="212.0">pokemonTCG.pokemon.AbstractWaterPokemon</node>
+    <node x="2416.166666666667" y="212.0">pokemonTCG.pokemon.AbstractGrassPokemon</node>
+    <node x="1256.7500000000005" y="212.0">pokemonTCG.pokemon.AbstractFightingPokemon</node>
+    <node x="1649.0833333333337" y="0.0">pokemonTCG.pokemon.IPokemon</node>
+    <node x="192.0" y="533.0">pokemonTCG.pokemon.phase1.P1ThunderPokemon</node>
+    <node x="2822.932675438597" y="212.0">pokemonTCG.pokemon.AbstractPsychicPokemon</node>
+    <node x="2810.166666666667" y="533.0">pokemonTCG.pokemon.phase2.P2PsychicPokemon</node>
+    <node x="3436.166666666667" y="533.0">pokemonTCG.pokemon.basic.BasicPsychicPokemon</node>
+    <node x="1185.166666666667" y="533.0">pokemonTCG.pokemon.phase1.P1GrassPokemon</node>
+    <node x="391.16666666666697" y="212.0">pokemonTCG.pokemon.phase1.IP1Pokemon</node>
+    <node x="0.0" y="533.0">pokemonTCG.pokemon.phase1.P1WaterPokemon</node>
+    <node x="3034.166666666667" y="533.0">pokemonTCG.pokemon.basic.BasicFirePokemon</node>
+    <node x="1682.666666666667" y="111.0">pokemonTCG.pokemon.AbstractPokemon</node>
+    <node x="1194.166666666667" y="111.0">pokemonTCG.pokemon.IFightingPokemon</node>
+    <node x="1992.166666666667" y="533.0">pokemonTCG.pokemon.phase2.P2FirePokemon</node>
+    <node x="977.1666666666669" y="533.0">pokemonTCG.pokemon.phase2.P2ThunderPokemon</node>
+    <node x="2905.932675438597" y="111.0">pokemonTCG.pokemon.IPsychicPokemon</node>
+    <node x="2058.5833333333335" y="212.0">pokemonTCG.pokemon.AbstractFirePokemon</node>
+    <node x="3064.932675438597" y="212.0">pokemonTCG.pokemon.basic.IBasicPokemon</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="pokemonTCG.pokemon.phase2.P2WaterPokemon" target="pokemonTCG.pokemon.phase2.IP2Pokemon">
+      <point x="43.0" y="-15.5" />
+      <point x="738.166666666667" y="433.0" />
+      <point x="1716.8333333333335" y="433.0" />
+      <point x="-55.833333333333314" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase2.P2GrassPokemon" target="pokemonTCG.pokemon.AbstractGrassPokemon">
+      <point x="42.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.AbstractFirePokemon" target="pokemonTCG.pokemon.AbstractPokemon">
+      <point x="-49.5" y="-15.5" />
+      <point x="2108.0833333333335" y="192.0" />
+      <point x="1783.0000000000002" y="192.0" />
+      <point x="14.333333333333258" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.basic.BasicFirePokemon" target="pokemonTCG.pokemon.AbstractFirePokemon">
+      <point x="-43.75" y="-15.5" />
+      <point x="3077.916666666667" y="303.0" />
+      <point x="2223.5833333333335" y="303.0" />
+      <point x="66.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.AbstractPsychicPokemon" target="pokemonTCG.pokemon.AbstractPokemon">
+      <point x="-55.5" y="-15.5" />
+      <point x="2878.432675438597" y="172.0" />
+      <point x="1840.3333333333337" y="172.0" />
+      <point x="71.66666666666674" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.basic.BasicFightingPokemon" target="pokemonTCG.pokemon.AbstractFightingPokemon">
+      <point x="-51.75" y="-15.5" />
+      <point x="2634.916666666667" y="323.0" />
+      <point x="1448.416666666667" y="323.0" />
+      <point x="76.66666666666674" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase1.P1GrassPokemon" target="pokemonTCG.pokemon.phase1.IP1Pokemon">
+      <point x="-42.0" y="-15.5" />
+      <point x="1227.166666666667" y="383.0" />
+      <point x="491.66666666666697" y="383.0" />
+      <point x="33.5" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.AbstractThunderPokemon" target="pokemonTCG.pokemon.AbstractPokemon">
+      <point x="57.5" y="-15.5" />
+      <point x="1081.666666666667" y="182.0" />
+      <point x="1725.666666666667" y="182.0" />
+      <point x="-43.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.AbstractWaterPokemon" target="pokemonTCG.pokemon.AbstractPokemon">
+      <point x="53.5" y="-15.5" />
+      <point x="705.666666666667" y="172.0" />
+      <point x="1697.0000000000002" y="172.0" />
+      <point x="-71.66666666666674" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.IFirePokemon" target="pokemonTCG.pokemon.IPokemon">
+      <point x="-1.1368683772161603E-13" y="-15.5" />
+      <point x="2239.166666666667" y="81.0" />
+      <point x="1725.1333333333337" y="81.0" />
+      <point x="17.549999999999955" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase2.P2FightingPokemon" target="pokemonTCG.pokemon.AbstractFightingPokemon">
+      <point x="-47.0" y="-15.5" />
+      <point x="1420.166666666667" y="423.0" />
+      <point x="1371.7500000000005" y="423.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.AbstractFightingPokemon" target="pokemonTCG.pokemon.IFightingPokemon">
+      <point x="-57.5" y="-15.5" />
+      <point x="1314.2500000000005" y="162.0" />
+      <point x="1281.666666666667" y="162.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.basic.BasicGrassPokemon" target="pokemonTCG.pokemon.basic.IBasicPokemon">
+      <point x="46.75" y="-15.5" />
+      <point x="3369.416666666667" y="283.0" />
+      <point x="3179.682675438597" y="283.0" />
+      <point x="38.25" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase1.P1PsychicPokemon" target="pokemonTCG.pokemon.AbstractPsychicPokemon">
+      <point x="45.0" y="-15.5" />
+      <point x="1716.166666666667" y="483.0" />
+      <point x="2859.932675438597" y="483.0" />
+      <point x="-74.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase2.P2WaterPokemon" target="pokemonTCG.pokemon.AbstractWaterPokemon">
+      <point x="-43.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase1.P1ThunderPokemon" target="pokemonTCG.pokemon.AbstractThunderPokemon">
+      <point x="47.0" y="-15.5" />
+      <point x="333.0" y="413.0" />
+      <point x="947.5000000000003" y="413.0" />
+      <point x="-76.66666666666652" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.AbstractGrassPokemon" target="pokemonTCG.pokemon.AbstractPokemon">
+      <point x="-52.5" y="-15.5" />
+      <point x="2468.666666666667" y="182.0" />
+      <point x="1811.666666666667" y="182.0" />
+      <point x="43.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.IWaterPokemon" target="pokemonTCG.pokemon.IPokemon">
+      <point x="0.0" y="-15.5" />
+      <point x="598.666666666667" y="61.0" />
+      <point x="1666.6333333333337" y="61.0" />
+      <point x="-40.950000000000045" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase1.P1FightingPokemon" target="pokemonTCG.pokemon.AbstractFightingPokemon">
+      <point x="47.0" y="-15.5" />
+      <point x="541.0" y="423.0" />
+      <point x="1295.0833333333337" y="423.0" />
+      <point x="-76.66666666666663" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase2.P2FirePokemon" target="pokemonTCG.pokemon.phase2.IP2Pokemon">
+      <point x="-39.0" y="-15.5" />
+      <point x="2031.166666666667" y="353.0" />
+      <point x="1783.8333333333335" y="353.0" />
+      <point x="11.166666666666629" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase1.P1GrassPokemon" target="pokemonTCG.pokemon.AbstractGrassPokemon">
+      <point x="42.0" y="-15.5" />
+      <point x="1311.166666666667" y="473.0" />
+      <point x="2451.166666666667" y="473.0" />
+      <point x="-70.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase1.P1PsychicPokemon" target="pokemonTCG.pokemon.phase1.IP1Pokemon">
+      <point x="-45.0" y="-15.5" />
+      <point x="1626.166666666667" y="373.0" />
+      <point x="514.0000000000002" y="373.0" />
+      <point x="55.83333333333326" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase1.P1FirePokemon" target="pokemonTCG.pokemon.AbstractFirePokemon">
+      <point x="39.0" y="-15.5" />
+      <point x="918.1666666666669" y="463.0" />
+      <point x="2091.5833333333335" y="463.0" />
+      <point x="-66.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.basic.BasicThunderPokemon" target="pokemonTCG.pokemon.AbstractThunderPokemon">
+      <point x="-51.75" y="-15.5" />
+      <point x="2219.916666666667" y="343.0" />
+      <point x="1100.8333333333335" y="343.0" />
+      <point x="76.66666666666652" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase1.P1ThunderPokemon" target="pokemonTCG.pokemon.phase1.IP1Pokemon">
+      <point x="-47.0" y="-15.5" />
+      <point x="239.0" y="393.0" />
+      <point x="424.66666666666697" y="393.0" />
+      <point x="-33.5" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase1.IP1Pokemon" target="pokemonTCG.pokemon.IPokemon">
+      <point x="0.0" y="-15.5" />
+      <point x="458.16666666666697" y="51.0" />
+      <point x="1654.9333333333336" y="51.0" />
+      <point x="-52.65000000000009" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase2.P2PsychicPokemon" target="pokemonTCG.pokemon.AbstractPsychicPokemon">
+      <point x="45.0" y="-15.5" />
+      <point x="2945.166666666667" y="483.0" />
+      <point x="2933.932675438597" y="483.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.IFightingPokemon" target="pokemonTCG.pokemon.IPokemon">
+      <point x="0.0" y="-15.5" />
+      <point x="1281.666666666667" y="81.0" />
+      <point x="1690.0333333333338" y="81.0" />
+      <point x="-17.549999999999955" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.IGrassPokemon" target="pokemonTCG.pokemon.IPokemon">
+      <point x="0.0" y="-15.5" />
+      <point x="2573.666666666667" y="71.0" />
+      <point x="1736.8333333333337" y="71.0" />
+      <point x="29.25" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.AbstractThunderPokemon" target="pokemonTCG.pokemon.IThunderPokemon">
+      <point x="-57.5" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.AbstractWaterPokemon" target="pokemonTCG.pokemon.IWaterPokemon">
+      <point x="-53.5" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.basic.IBasicPokemon" target="pokemonTCG.pokemon.IPokemon">
+      <point x="0.0" y="-15.5" />
+      <point x="3141.432675438597" y="51.0" />
+      <point x="1760.2333333333338" y="51.0" />
+      <point x="52.65000000000009" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.basic.BasicThunderPokemon" target="pokemonTCG.pokemon.basic.IBasicPokemon">
+      <point x="51.75" y="-15.5" />
+      <point x="2323.416666666667" y="503.0" />
+      <point x="3103.182675438597" y="503.0" />
+      <point x="-38.25" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.basic.BasicWaterPokemon" target="pokemonTCG.pokemon.AbstractWaterPokemon">
+      <point x="-47.75" y="-15.5" />
+      <point x="1828.916666666667" y="363.0" />
+      <point x="723.5000000000005" y="363.0" />
+      <point x="71.33333333333348" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase1.P1WaterPokemon" target="pokemonTCG.pokemon.phase1.IP1Pokemon">
+      <point x="-43.0" y="-15.5" />
+      <point x="43.0" y="383.0" />
+      <point x="402.3333333333337" y="383.0" />
+      <point x="-55.83333333333326" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase2.P2ThunderPokemon" target="pokemonTCG.pokemon.phase2.IP2Pokemon">
+      <point x="47.0" y="-15.5" />
+      <point x="1118.166666666667" y="443.0" />
+      <point x="1739.166666666667" y="443.0" />
+      <point x="-33.5" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.basic.BasicPsychicPokemon" target="pokemonTCG.pokemon.basic.IBasicPokemon">
+      <point x="49.75" y="-15.5" />
+      <point x="3585.416666666667" y="263.0" />
+      <point x="3205.182675438597" y="263.0" />
+      <point x="63.75" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.basic.BasicWaterPokemon" target="pokemonTCG.pokemon.basic.IBasicPokemon">
+      <point x="47.75" y="-15.5" />
+      <point x="1924.416666666667" y="493.0" />
+      <point x="3077.682675438597" y="493.0" />
+      <point x="-63.75" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase2.P2PsychicPokemon" target="pokemonTCG.pokemon.phase2.IP2Pokemon">
+      <point x="-45.0" y="-15.5" />
+      <point x="2855.166666666667" y="313.0" />
+      <point x="1828.5000000000002" y="313.0" />
+      <point x="55.833333333333314" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase2.P2FirePokemon" target="pokemonTCG.pokemon.AbstractFirePokemon">
+      <point x="39.0" y="-15.5" />
+      <point x="2109.166666666667" y="463.0" />
+      <point x="2157.5833333333335" y="463.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.AbstractFightingPokemon" target="pokemonTCG.pokemon.AbstractPokemon">
+      <point x="57.5" y="-15.5" />
+      <point x="1429.2500000000005" y="192.0" />
+      <point x="1754.3333333333337" y="192.0" />
+      <point x="-14.333333333333258" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.AbstractFirePokemon" target="pokemonTCG.pokemon.IFirePokemon">
+      <point x="49.5" y="-15.5" />
+      <point x="2207.0833333333335" y="192.0" />
+      <point x="2239.166666666667" y="192.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase2.P2GrassPokemon" target="pokemonTCG.pokemon.phase2.IP2Pokemon">
+      <point x="-42.0" y="-15.5" />
+      <point x="2437.166666666667" y="333.0" />
+      <point x="1806.166666666667" y="333.0" />
+      <point x="33.5" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.basic.BasicFirePokemon" target="pokemonTCG.pokemon.basic.IBasicPokemon">
+      <point x="43.75" y="-15.5" />
+      <point x="3165.416666666667" y="513.0" />
+      <point x="3154.182675438597" y="513.0" />
+      <point x="12.75" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.IPsychicPokemon" target="pokemonTCG.pokemon.IPokemon">
+      <point x="0.0" y="-15.5" />
+      <point x="2989.432675438597" y="61.0" />
+      <point x="1748.5333333333338" y="61.0" />
+      <point x="40.950000000000045" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase2.P2FightingPokemon" target="pokemonTCG.pokemon.phase2.IP2Pokemon">
+      <point x="47.0" y="-15.5" />
+      <point x="1514.166666666667" y="453.0" />
+      <point x="1761.5000000000002" y="453.0" />
+      <point x="-11.166666666666686" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.AbstractGrassPokemon" target="pokemonTCG.pokemon.IGrassPokemon">
+      <point x="52.5" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.AbstractPokemon" target="pokemonTCG.pokemon.IPokemon">
+      <point x="0.0" y="-15.5" />
+      <point x="1768.666666666667" y="91.0" />
+      <point x="1713.4333333333336" y="91.0" />
+      <point x="5.849999999999909" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.IThunderPokemon" target="pokemonTCG.pokemon.IPokemon">
+      <point x="0.0" y="-15.5" />
+      <point x="966.6666666666669" y="71.0" />
+      <point x="1678.3333333333337" y="71.0" />
+      <point x="-29.25" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase1.P1WaterPokemon" target="pokemonTCG.pokemon.AbstractWaterPokemon">
+      <point x="43.0" y="-15.5" />
+      <point x="129.0" y="403.0" />
+      <point x="580.8333333333335" y="403.0" />
+      <point x="-71.33333333333348" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.basic.BasicGrassPokemon" target="pokemonTCG.pokemon.AbstractGrassPokemon">
+      <point x="-46.75" y="-15.5" />
+      <point x="3275.916666666667" y="293.0" />
+      <point x="2591.166666666667" y="293.0" />
+      <point x="70.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase1.P1FightingPokemon" target="pokemonTCG.pokemon.phase1.IP1Pokemon">
+      <point x="-47.0" y="-15.5" />
+      <point x="-11.166666666666742" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.basic.BasicFightingPokemon" target="pokemonTCG.pokemon.basic.IBasicPokemon">
+      <point x="51.75" y="-15.5" />
+      <point x="2738.416666666667" y="513.0" />
+      <point x="3128.682675438597" y="513.0" />
+      <point x="-12.75" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.basic.BasicPsychicPokemon" target="pokemonTCG.pokemon.AbstractPsychicPokemon">
+      <point x="-49.75" y="-15.5" />
+      <point x="3485.916666666667" y="273.0" />
+      <point x="3007.932675438597" y="273.0" />
+      <point x="74.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase2.P2ThunderPokemon" target="pokemonTCG.pokemon.AbstractThunderPokemon">
+      <point x="-47.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase2.IP2Pokemon" target="pokemonTCG.pokemon.IPokemon">
+      <point x="0.0" y="-15.5" />
+      <point x="1772.666666666667" y="162.0" />
+      <point x="1659.3333333333335" y="162.0" />
+      <point x="1659.3333333333335" y="91.0" />
+      <point x="1701.7333333333338" y="91.0" />
+      <point x="-5.849999999999909" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.AbstractPsychicPokemon" target="pokemonTCG.pokemon.IPsychicPokemon">
+      <point x="55.5" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.pokemon.phase1.P1FirePokemon" target="pokemonTCG.pokemon.phase1.IP1Pokemon">
+      <point x="-39.0" y="-15.5" />
+      <point x="840.1666666666669" y="393.0" />
+      <point x="469.3333333333337" y="393.0" />
+      <point x="11.166666666666742" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9532770927968851" x="950.5" y="302.34615384615387" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

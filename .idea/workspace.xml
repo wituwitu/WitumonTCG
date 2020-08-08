@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1273858d-d267-4a15-ac87-b2c9b11957c0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Metodologias_T1$pokemonTCG_in_Metodologias_T1.ic" NAME="pokemonTCG in Metodologias_T1 Coverage Results" MODIFIED="1556037777849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pokemonTCG.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Metodologias_T2$pokemonTCG_in_Metodologias_T1.ic" NAME="pokemonTCG in Metodologias_T1 Coverage Results" MODIFIED="1560564987152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pokemonTCG.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Metodologias_T1$All_in_Metodologias_T1.ic" NAME="All in Metodologias_T1 Coverage Results" MODIFIED="1559580842244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Metodologias_T2$All_in_Metodologias_T1.ic" NAME="All in Metodologias_T1 Coverage Results" MODIFIED="1560816116858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Metodologias_T1$tests_in_Metodologias_T1.ic" NAME="tests in Metodologias_T1 Coverage Results" MODIFIED="1555969007441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>tests.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="15" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/TODO.txt">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="326">
+                    <caret line="63" column="14" lean-forward="true" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/items/InstantItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/supportcards/Support.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="31" selection-start-line="31" selection-end-line="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/items/EquipItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/items/IItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/items/AbstractItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/supportcards/ProfessorJuniper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pokemonTCG/Driver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/stadiums/Stadium.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="46" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/stadiums/TrainingCenter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/pokemonTCG/PlayVisitor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="91" column="20" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selectAct</find>
+      <find>getAc</find>
+      <find>cemete</find>
+      <find>getter</find>
+      <find>receiveWe</find>
+      <find>equals</find>
+      <find>setEnergy</find>
+      <find>getEner</find>
+      <find>selectAbil</find>
+      <find>HashMap&lt;String, Integer&gt;</find>
+      <find>attack</find>
+      <find>Bulba</find>
+      <find>grassCost</find>
+      <find>toBench</find>
+      <find>accept</find>
+      <find>acti</find>
+      <find>getSelectedPokemon</find>
+      <find>activat</find>
+      <find>atta</find>
+      <find>attack()</find>
+      <find>attacks</find>
+      <find>playsE</find>
+      <find>setCosts|</find>
+      <find>setCos</find>
+      <find>setCosts</find>
+      <find>selectAbility</find>
+      <find>activate</find>
+      <find>newItem</find>
+      <find>play</find>
+      <find>potion</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pokemonTCG/AbstractAbility.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/abilities/EnergyBurn.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/IAbility.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/Support.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/abilities/attacks/FireAttack.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/abilities/attacks/FightingAttack.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/AbilityVisitor.java" />
+        <option value="$PROJECT_DIR$/tests/testObserver.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/abilities/attacks/ElectricShock.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/abilities/AbstractAbility.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/Item.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/Potion.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/Stadium.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/AbstractPokemon.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/IPokemon.java" />
+        <option value="$PROJECT_DIR$/tests/TestPokemon.java" />
+        <option value="$PROJECT_DIR$/tests/TestVisitor.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/IItem.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/EquipItem.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/InstantItem.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/AbstractItem.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/pokemon/IPokemon.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/pokemon/AbstractPokemon.java" />
+        <option value="$PROJECT_DIR$/tests/TestAbilities.java" />
+        <option value="$PROJECT_DIR$/tests/TestStadium.java" />
+        <option value="$PROJECT_DIR$/tests/TestSupport.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/abilities/support/AbstractSupport.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/PlayVisitor.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/Trainer.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/Visitor.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/ICard.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/Driver.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/types/IType.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/types/AbstractType.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/types/Grass.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/stadiums/TrainingCenter.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/items/EquipItem.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/items/AbstractItem.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/abilities/IAbility.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/abilities/support/EnergyBurn.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/abilities/attacks/IAttack.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/abilities/attacks/AbstractAttack.java" />
+        <option value="$PROJECT_DIR$/TODO.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/tests/TestObserver.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/items/Potion.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/AbstractTrainerCard.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/supportcards/ProfessorJuniper.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/stadiums/Stadium.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/items/InstantItem.java" />
+        <option value="$PROJECT_DIR$/src/pokemonTCG/trainercards/supportcards/Support.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1366" />
+    <option name="y" value="27" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Metodologias_T2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Metodologias_T2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Metodologias_T2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Metodologias_T2" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560822546521" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pokemonTCG" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pokemonTCG" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/UML" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pokemonTCG.pokemon" />
+      <recent name="pokemonTCG.pokemon.phase2" />
+      <recent name="pokemonTCG.pokemon.phase1" />
+      <recent name="pokemonTCG.pokemon.basic" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pokemonTCG.pokemon" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in Metodologias_T1">
+    <configuration name="All in Metodologias_T1" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Metodologias_T2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAbilities.testEnergyBurn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Metodologias_T2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestAbilities" />
+      <option name="METHOD_NAME" value="testEnergyBurn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAbilities.testPotion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Metodologias_T2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestAbilities" />
+      <option name="METHOD_NAME" value="testPotion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPokemon.testItem" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Metodologias_T2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestPokemon" />
+      <option name="METHOD_NAME" value="testItem" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestStadium.testTrainingCenter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Metodologias_T2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestStadium" />
+      <option name="METHOD_NAME" value="testTrainingCenter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSupport.testProfessorJuniper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Metodologias_T2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestSupport" />
+      <option name="METHOD_NAME" value="testProfessorJuniper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Metodologias_T2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="Metodologias_T2" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestPokemon.testItem" />
+        <item itemvalue="JUnit.TestSupport.testProfessorJuniper" />
+        <item itemvalue="JUnit.TestAbilities.testEnergyBurn" />
+        <item itemvalue="JUnit.TestStadium.testTrainingCenter" />
+        <item itemvalue="JUnit.TestAbilities.testPotion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1273858d-d267-4a15-ac87-b2c9b11957c0" name="Default Changelist" comment="" />
+      <created>1555695330783</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555695330783</updated>
+      <workItem from="1555695344011" duration="1026000" />
+      <workItem from="1555699530154" duration="644000" />
+      <workItem from="1555799243582" duration="8131000" />
+      <workItem from="1555873281611" duration="42232000" />
+      <workItem from="1556027622336" duration="22392000" />
+      <workItem from="1556395140531" duration="787000" />
+      <workItem from="1556896477054" duration="1119000" />
+      <workItem from="1557438503131" duration="327000" />
+      <workItem from="1559572967756" duration="8515000" />
+      <workItem from="1559582481569" duration="5163000" />
+      <workItem from="1559945476135" duration="8926000" />
+      <workItem from="1560184170439" duration="17366000" />
+      <workItem from="1560439605909" duration="29319000" />
+      <workItem from="1560533959544" duration="30590000" />
+      <workItem from="1560735318814" duration="9431000" />
+      <workItem from="1560783279761" duration="32109000" />
+    </task>
+    <task id="LOCAL-00001" summary="Creadas las clases de Energía por tipo, y implementación inicial de la clase Hand con generadores de cartas de energía.">
+      <created>1555807299636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1555807299636</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implementadas clases para cada tipo y clase abstracta Card para englobar a los pokemon y las energías, así como todas las interdependencias para poder mostrar la mano del jugador.">
+      <created>1555886954380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555886954380</updated>
+    </task>
+    <task id="LOCAL-00003" summary="NO RECUERDO QUE HICE Y LO HICE HACE 15 MINUTOS">
+      <created>1555948845687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1555948845687</updated>
+    </task>
+    <task id="LOCAL-00004" summary="TENGO TRES IFs me eché el ramo??">
+      <created>1555950578259</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555950578259</updated>
+    </task>
+    <task id="LOCAL-00005" summary="creo que terminé el código. Ahora tengo que hacer los tests.&#10;Obs: Tengo un warning a la hora de quitar un pokemon del deck. ¿Por qué?">
+      <created>1555954620866</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1555954620866</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Implementados varios tests.&#10;&#10;Obs: Tengo un warning a la hora de quitar un pokemon del deck. ¿Por qué?">
+      <created>1555973978756</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1555973978756</updated>
+    </task>
+    <task id="LOCAL-00007" summary="100% classes, 99% LINES AYUDA">
+      <created>1556038219728</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1556038219728</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ESTA VIVO">
+      <created>1556053273737</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1556053273737</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ESTA VIVO 2">
+      <created>1556053428720</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1556053428720</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Corregidas algunas cosas y agregado el diagrama UML y el markdown.&#10;&#10;Espero que esto sea el commit final">
+      <created>1556055950492</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1556055950492</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit final 2">
+      <created>1556056021219</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1556056021219</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit final 3">
+      <created>1556395642416</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1556395642417</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit final 4">
+      <created>1556395879293</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1556395879293</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Agregado el TODO list de esta tarea">
+      <created>1559588476964</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1559588476964</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Implementadas las evoluciones de los pokemon usando muchas muchas clases adicionales">
+      <created>1559953971903</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1559953971903</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Todos los tipos Abstract ahora son interfaces. Agregadas nuevas funcionalidades.">
+      <created>1560192474891</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1560192474891</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Todos los tipos Abstract ahora son interfaces. Agregadas nuevas funcionalidades.">
+      <created>1560194735819</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1560194735819</updated>
+    </task>
+    <task id="LOCAL-00018" summary="HICE UN VISITOR">
+      <created>1560207538484</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1560207538485</updated>
+    </task>
+    <task id="LOCAL-00019" summary="HICE UN OBSERVER">
+      <created>1560552785143</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1560552785144</updated>
+    </task>
+    <task id="LOCAL-00020" summary="HICE UN OBSERVER">
+      <created>1560554300589</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1560554300589</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Hechos varios tests para lograr un 97% de coverage.">
+      <created>1560747808756</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1560747808756</updated>
+    </task>
+    <task id="LOCAL-00022" summary="FINAL COMMIT #tarea2 #instabergel #instachile #instapokemon #instakahoot #instanceof">
+      <created>1560822402615</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1560822402615</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestSupport_testProfessorJuniper - 2019.06.17 at 19h 55m 22s.xml">
+      <configuration name="TestSupport.testProfessorJuniper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSupport_testProfessorJuniper - 2019.06.17 at 19h 55m 44s.xml">
+      <configuration name="TestSupport.testProfessorJuniper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestSupport_testProfessorJuniper - 2019.06.17 at 19h 56m 26s.xml">
+      <configuration name="TestSupport.testProfessorJuniper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Metodologias_T1 - 2019.06.17 at 19h 56m 49s.xml">
+      <configuration name="All in Metodologias_T1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPokemon_testItem - 2019.06.17 at 19h 58m 21s.xml">
+      <configuration name="TestPokemon.testItem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPokemon_testItem - 2019.06.17 at 19h 58m 43s.xml">
+      <configuration name="TestPokemon.testItem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPokemon_testItem - 2019.06.17 at 20h 00m 22s.xml">
+      <configuration name="TestPokemon.testItem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPokemon_testItem - 2019.06.17 at 20h 00m 27s.xml">
+      <configuration name="TestPokemon.testItem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPokemon_testItem - 2019.06.17 at 20h 01m 50s.xml">
+      <configuration name="TestPokemon.testItem" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Metodologias_T1 - 2019.06.17 at 20h 01m 58s.xml">
+      <configuration name="All in Metodologias_T1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="218077000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1366" y="0" width="1920" height="1080" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20010673" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32694355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.10543131" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39829606" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.3290735" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3258786" />
+      <window_info anchor="right" x="0" y="0" width="430" height="880" id="Documentation" side_tool="true" weight="0.32977587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.016008537" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creadas las clases de Energía por tipo, y implementación inicial de la clase Hand con generadores de cartas de energía." />
+    <MESSAGE value="Implementadas clases para cada tipo y clase abstracta Card para englobar a los pokemon y las energías, así como todas las interdependencias para poder mostrar la mano del jugador." />
+    <MESSAGE value="NO RECUERDO QUE HICE Y LO HICE HACE 15 MINUTOS" />
+    <MESSAGE value="TENGO TRES IFs me eché el ramo??" />
+    <MESSAGE value="creo que terminé el código. Ahora tengo que hacer el resto de las cosas." />
+    <MESSAGE value="creo que terminé el código. Ahora tengo que hacer los tests." />
+    <MESSAGE value="creo que terminé el código. Ahora tengo que hacer los tests.&#10;Obs: Tengo un warning a la hora de quitar un pokemon del deck. ¿Por qué?" />
+    <MESSAGE value="Implementados varios tests.&#10;&#10;Obs: Tengo un warning a la hora de quitar un pokemon del deck. ¿Por qué?" />
+    <MESSAGE value="100% classes, 99% LINES AYUDA" />
+    <MESSAGE value="ESTA VIVO" />
+    <MESSAGE value="ESTA VIVO 2" />
+    <MESSAGE value="Corregidas algunas cosas y agregado el diagrama UML y el markdown.&#10;&#10;Espero que esto sea el commit final" />
+    <MESSAGE value="commit final 2" />
+    <MESSAGE value="commit final 3" />
+    <MESSAGE value="commit final 4" />
+    <MESSAGE value="Agregado el TODO list de esta tarea" />
+    <MESSAGE value="Implementadas las evoluciones de los pokemon usando muchas muchas clases adicionales" />
+    <MESSAGE value="Todos los tipos Abstract ahora son interfaces. Agregadas nuevas funcionalidades." />
+    <MESSAGE value="HICE UN VISITOR" />
+    <MESSAGE value="HICE UN OBSERVER" />
+    <MESSAGE value="Hechos varios tests para lograr un 97% de coverage." />
+    <MESSAGE value="FINAL COMMIT #tarea2 #instabergel #instachile #instapokemon #instakahoot #instanceof" />
+    <option name="LAST_COMMIT_MESSAGE" value="FINAL COMMIT #tarea2 #instabergel #instachile #instapokemon #instakahoot #instanceof" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/TestPokemon.java</url>
+          <line>188</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/tests/TestPokemon.java</url>
+          <line>409</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/AbilityVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/types/Water.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/types/AbstractType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/types/IType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="41" column="21" lean-forward="true" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/types/Grass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/pokemon/IWaterPokemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/pokemon/IPsychicPokemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/pokemon/AbstractThunderPokemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-170">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/pokemon/AbstractWaterPokemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/pokemon/basic/BasicFirePokemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/energies/WaterEnergy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/energies/ThunderEnergy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/energies/PsychicEnergy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/energies/GrassEnergy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/energies/FireEnergy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/energies/FightingEnergy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/energies/AbstractEnergy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/abilities/IAbility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="93" column="58" selection-start-line="93" selection-start-column="58" selection-end-line="93" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/abilities/support/ISupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/abilities/support/EnergyBurn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1211#1212#0" expanded="true" />
+            <element signature="e#1254#1255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/abilities/attacks/WaterAttack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/abilities/attacks/IAttack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="45" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/abilities/attacks/AbstractAttack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="33" column="15" selection-start-line="33" selection-start-column="15" selection-end-line="33" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/abilities/support/AbstractSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="22" column="11" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/abilities/AbstractAbility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1389">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1949#1950#0" expanded="true" />
+            <element signature="e#1987#1988#0" expanded="true" />
+            <element signature="e#2047#2048#0" expanded="true" />
+            <element signature="e#2084#2085#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/abilities/attacks/ElectricShock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestEnergy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestPokemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestStadium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestTrainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestAbilities.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="165" column="18" lean-forward="true" selection-start-line="165" selection-start-column="18" selection-end-line="165" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TODO.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="63" column="14" lean-forward="true" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="148" selection-start-line="8" selection-start-column="148" selection-end-line="8" selection-end-column="148" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/ICard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/pokemon/AbstractPokemon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="252" column="13" selection-start-line="252" selection-start-column="13" selection-end-line="252" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2369#2370#0" expanded="true" />
+            <element signature="e#2401#2402#0" expanded="true" />
+            <element signature="e#2628#2629#0" expanded="true" />
+            <element signature="e#2659#2660#0" expanded="true" />
+            <element signature="e#6534#6535#0" expanded="true" />
+            <element signature="e#6584#6585#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/AbstractTrainerCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/items/Potion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/items/IItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/items/EquipItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/items/AbstractItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/supportcards/ProfessorJuniper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/Driver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="59" column="16" selection-start-line="59" selection-start-column="16" selection-end-line="59" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/stadiums/TrainingCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="14" column="46" lean-forward="true" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/stadiums/Stadium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="46" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/items/InstantItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/trainercards/supportcards/Support.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pokemonTCG/PlayVisitor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="91" column="20" selection-start-line="91" selection-start-column="20" selection-end-line="91" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Metodologias_T1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

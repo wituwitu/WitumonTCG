@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>pokemonTCG.trainercards</OriginalElement>
+  <nodes>
+    <node x="156.0" y="243.0">pokemonTCG.trainercards.items.Potion</node>
+    <node x="0.0" y="162.0">pokemonTCG.trainercards.items.EquipItem</node>
+    <node x="139.0" y="162.0">pokemonTCG.trainercards.items.InstantItem</node>
+    <node x="275.95" y="0.0">pokemonTCG.trainercards.AbstractTrainerCard</node>
+    <node x="287.0" y="162.0">pokemonTCG.trainercards.stadiums.TrainingCenter</node>
+    <node x="458.0" y="162.0">pokemonTCG.trainercards.supportcards.ProfessorJuniper</node>
+    <node x="310.0" y="81.0">pokemonTCG.trainercards.stadiums.Stadium</node>
+    <node x="49.40833333333333" y="0.0">pokemonTCG.trainercards.items.IItem</node>
+    <node x="56.40833333333333" y="81.0">pokemonTCG.trainercards.items.AbstractItem</node>
+    <node x="490.0" y="81.0">pokemonTCG.trainercards.supportcards.Support</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="pokemonTCG.trainercards.items.AbstractItem" target="pokemonTCG.trainercards.AbstractTrainerCard">
+      <point x="34.5" y="-15.5" />
+      <point x="159.90833333333333" y="56.0" />
+      <point x="307.2833333333333" y="56.0" />
+      <point x="-62.66666666666666" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.trainercards.items.InstantItem" target="pokemonTCG.trainercards.items.AbstractItem">
+      <point x="0.0" y="-15.5" />
+      <point x="203.0" y="137.0" />
+      <point x="159.90833333333333" y="137.0" />
+      <point x="34.5" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.trainercards.stadiums.TrainingCenter" target="pokemonTCG.trainercards.stadiums.Stadium">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.trainercards.items.EquipItem" target="pokemonTCG.trainercards.items.AbstractItem">
+      <point x="0.0" y="-15.5" />
+      <point x="59.5" y="137.0" />
+      <point x="90.90833333333333" y="137.0" />
+      <point x="-34.5" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.trainercards.supportcards.Support" target="pokemonTCG.trainercards.AbstractTrainerCard">
+      <point x="0.0" y="-15.5" />
+      <point x="542.0" y="56.0" />
+      <point x="432.6166666666667" y="56.0" />
+      <point x="62.666666666666686" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.trainercards.supportcards.ProfessorJuniper" target="pokemonTCG.trainercards.supportcards.Support">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.trainercards.stadiums.Stadium" target="pokemonTCG.trainercards.AbstractTrainerCard">
+      <point x="0.0" y="-15.5" />
+      <point x="362.5" y="56.0" />
+      <point x="369.95" y="56.0" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.trainercards.items.Potion" target="pokemonTCG.trainercards.items.InstantItem">
+      <point x="0.0" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+    <edge source="pokemonTCG.trainercards.items.AbstractItem" target="pokemonTCG.trainercards.items.IItem">
+      <point x="-34.5" y="-15.5" />
+      <point x="0.0" y="15.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="254.5" y="56.0" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

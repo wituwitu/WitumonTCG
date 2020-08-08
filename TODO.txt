@@ -1,0 +1,70 @@
+1. Entidades
+    1.1. Entrenador
+        TODO: Debe tener un mazo que empieza con 60 cartas que no son visibles al entrenador
+        DONE: Debe tener una pila de descarte donde van los pokemon muertos y las cartas descartadas
+        DONE: Debe tener hasta 6 cartas de premio que no son visibles al entrenador
+
+    1.2. Energía
+        DONE: Las energías pueden agregarse a pokémon de la banca
+        DONE: Sólo se puede jugar una carta por turno
+
+    1.3. Evoluciones
+        DONE: Fases: básico, fase 1 y fase 2
+        DONE: Los pokemon básicos pueden ser jugados directamente a la banca
+        DONE: Los fase 1 y fase 2 necesitan que su preevolución esté presente en el campo para poder jugarse
+        DONE: Al jugar una fase superior, reemplaza a la preevolución y ésta última es enviada a la pila de descarte
+        DONE: Todas las energías del pokemon original pasan a la evolución al jugarse
+
+    1.4. Habilidades
+        DONE: Una habilidad tiene los mismos atributos que un ataque pero no un daño base
+        DONE: Una habilidad puede usarse por un jugador o activarse por alguna razón
+        DONE: Una habilidad tiene efectos sobre el estado del juego
+        DONE: Un ataque es lo último que puede hacer un jugador en su turno
+
+    1.5. Cartas de entrenador
+        DONE: Deben tener un nombre y un texto descriptivo
+
+        1.5.1. Objetos
+            DONE: Tienen efecto instantáneo sobre un pokémon o pueden quedar asociadas a éste
+            DONE: No se puede jugar un objeto a un pokémon con un objeto equipado
+
+        1.5.2. Estadio
+            DONE: Tienen efecto sobre todas las cartas del juego.
+            DONE: Sólo se puede tener una de estas cartas en juego a la vez.
+            DONE: Si se juega otra, ésta reemplaza a la anterior.
+
+        1.5.3. Soporte
+            DONE: Tienen efecto instantáneo. Al jugarlas se activa su efecto y luego se descartan.
+            DONE: Sólo se puede jugar una carta de soporte por turno.
+
+2. Controlador
+DONE: Manejará la lógica de una partida de cartas, definirá la estructura de los turnos y servirá de interfaz para manejar las entidades del juego.
+TODO: Se requiere que se pueda simular un turno.
+DONE: El controlador debe conocer a los entrenadores y el del cual es el turno actual.
+DONE: Un turno se estructura así:
+    1. Un jugador roba una carta del mazo hacia su mano.
+    2. Luego de robar el entrenador puede:
+        2.1. Ver las cartas de su mano y jugarlas.
+        2.2. Ver los pokémon en juego (suyos y del oponente)
+        2.3. Usar alguna habilidad de su pokémon activo.
+    3. Terminar el turno o atacar.
+
+3. Requisitos específicos
+DONE: Debe implementarse al menos 1 habilidad por tipo
+
+    1.3.1. Habilidades pokémon
+    DONE: Energy Burn: Todas las energías asociadas al Pokémon se vuelven del tipo del Pokémon.
+    1.3.2. Ataques
+    DONE: Electric Shock: Lanza una moneda, si sale sello, este Pokémon recibe x de daño.
+    1.3.3. Objetos
+    DONE: Potion: Recupera x puntos de daño.
+    1.3.4. Estadios
+    DONE: Training Center: Cada Pokémon fase 1 o fase 2 en juego tiene +x de hp.
+    1.3.5. Soporte
+    DONE: Professor Juniper: Descartar la mano y robar 7 cartas.
+
+4. Requerimientos adicionales
+DONE: Cobertura: Al menos el 90% de las líneas por paquete.
+Done: Javadoc.
+TODO: Resumen con el nombre, rut, usuario de github, link al repo y un diagrama UML.
+TODO: Modificar el readme +las funcionalidades opcionales que se implementaron, y señalar qué test las prueba.
